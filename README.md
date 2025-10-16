@@ -30,7 +30,7 @@ Hệ thống giúp:
 
 ---
 
-## 2. Công nghệ sử dụng  
+## 🔧  2. Công nghệ sử dụng  
 - **Frontend:** ReactJS, TailwindCSS, Vite  
 - **Backend:** Node.js, Express  
 - **Cơ sở dữ liệu:** SQLite (database.sqlite)  
@@ -38,7 +38,7 @@ Hệ thống giúp:
 
 ---
 
-## 3. Hình ảnh chức năng  
+## 🖼️ 3. Hình ảnh chức năng  
 
 ### Giao diện chính  
 ![Giao diện chính](./img/bg.jpg)  
@@ -47,7 +47,7 @@ Hệ thống giúp:
 ![Trang chức năng](./img/ig.jpg)  
 
 
-## 4. Các bước cài đặt  
+## 🛠️ 4. Các bước cài đặt  
 
 ### Yêu cầu:  
 - Node.js >= 16  
@@ -70,6 +70,8 @@ npm run build
 
 # Chạy production server
 npm run preview
+
+---
 
 ## 📞 5. Liên hệ  
 
