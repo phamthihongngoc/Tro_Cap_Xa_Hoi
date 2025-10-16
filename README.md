@@ -46,6 +46,7 @@ Hệ thống giúp:
 ### Trang chức năng  
 ![Trang chức năng](./img/ig.jpg)  
 
+---
 
 ## 🛠️ 4. Các bước cài đặt  
 
@@ -71,9 +72,10 @@ npm run build
 # Chạy production server
 npm run preview
 
----
+```
 
-## 📞 5. Liên hệ  
+---
+##📞 5. Liên hệ 
 
 Nếu bạn có bất kỳ thắc mắc hoặc cần hỗ trợ về dự án, vui lòng liên hệ:  
 
