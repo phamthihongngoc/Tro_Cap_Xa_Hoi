@@ -41,10 +41,10 @@ Hệ thống giúp:
 ## 🖼️ 3. Hình ảnh chức năng  
 
 ### Giao diện chính  
-![Giao diện chính](./img/bg.jpg)  
+![Giao diện chính](./img/)  
 
 ### Trang chức năng  
-![Trang chức năng](./img/ig.jpg)  
+![Trang chức năng](./img/)  
 
 ---
 
@@ -75,7 +75,7 @@ npm run preview
 ```
 
 ---
-##📞 5. Liên hệ 
+## 📞 5. Liên hệ 
 
 Nếu bạn có bất kỳ thắc mắc hoặc cần hỗ trợ về dự án, vui lòng liên hệ:  
 
